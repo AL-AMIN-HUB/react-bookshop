@@ -1,0 +1,19 @@
+.button-style {
+  background-color: #1b8bcc;
+  color: #fff;
+}
+.button-style:hover {
+  background-color: #fff;
+  color: #1b8bcc;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+li {
+  list-style-type: none;
+}
+li:hover {
+  list-style-type: circle;
+  cursor: pointer;
+  transition: 3s;
+}

@@ -1,0 +1,7 @@
+.book-hover {
+  transition: 0.5s;
+}
+.book-hover:hover {
+  cursor: pointer;
+  transform: scale(1.07);
+}
